@@ -2,8 +2,7 @@
 
 ## Contents
 
-- [Introductoin](#intro)
-  - [Short History](#sh)
+- [Introduction](#intro)
 - [Overview](#overview)
 - [Usage](#usage)
 - [License](#license)
@@ -12,7 +11,7 @@
 
 NoMarkdown is a framework which removes from any text Markdown syntax. Useful for students 😈. 
 
-### <a name="#sh">Short history</a>
+### Short history
 
 Since appearing of chatbots, many people started to use them. Develpers of AI apps wanted to help their users. They decided to simplify AI responses with visualization, thus they implemented Markdown syntax in AI responses. 
 Nice and beautiful Markdown syntax, which is a standart in programmers' world, was dicriminated by **HUMANITARIANES**. 
