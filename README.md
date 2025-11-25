@@ -1,5 +1,16 @@
 # NoMarkdown
 
+<p align="center"> 
+   <img src="https://img.shields.io/github/license/ja-proger/NoMarkdown>" alt="License" /> 
+   <img src="https://img.shields.io/github/v/release/ja-proger/NoMarkdown" alt="Release Version" /> 
+   <img src="https://img.shields.io/github/downloads/ja-proger/NoMarkdown/total" alt="Downloads" /> 
+   <img src="https://img.shields.io/github/stars/ja-proger/NoMarkdown?style=social" alt="GitHub Stars" /> 
+   <img src="https://img.shields.io/github/forks/ja-proger/NoMarkdown?style=social" alt="GitHub Forks" /> 
+   <img src="https://img.shields.io/github/issues/ja-proger/NoMarkdown" alt="GitHub Issues" /> 
+   <img src="https://img.shields.io/badge/platform-macOS-blue?logo=apple" alt="Platform macOS" /> 
+   <img src="https://img.shields.io/github/languages/top/ja-proger/NoMarkdown" alt="Top Language" /> 
+</p>
+
 ## Contents
 
 - [Introduction](#intro)
