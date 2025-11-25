@@ -1,12 +1,10 @@
 # NoMarkdown
 
-**COMMING SOON**
-
 ## Contents
 
 - [Introduction](#intro)
+- [Installation](#installation)
 - [Overview](#overview)
-- [Usage](#usage)
 - [License](#license)
 
 ## <a name="#intro">Introduction</a>
@@ -24,10 +22,37 @@ I believe we have to **hide our creature**, hence I created a CLI tool — **NoM
 > _Sorry, bro... U'll be save_ \
 > JA Proger, 2025
 
+## <a name="#installation">Installation</a>
+
+### Requirements
+
+- swift compiler `swiftc`
+
+### macOS
+
+1. Open your Terminal.app
+2. Run the following command
+
+```bash
+git clone https://github.com/ja-proger/NoMarkdown/
+cd NoMarkdown
+sh build.sh
+```
+3. If the installation was successful, check the **NoMarkdown** tool with the following command
+   
+```bash
+cd [folder with MD file]
+nomd [your file].md
+```
 ## <a name="#overview">Overview</a>
 
+**NoMarkdown** was written in Swift.
+I used String methods and Regular expressions.
 
-## <a name="#usage">Usage</a> 
+### Roadmap
+
+[ ] Realize options
+[ ] Add tables syntax to unmarkdown
 
 ## <a name="#license">License</a>
 
