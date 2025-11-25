@@ -31,3 +31,14 @@ I believe we have to **hide our creature**, hence I created a CLI tool — **NoM
 
 ## <a name="#license">License</a>
 
+### Authorship
+
+- The **AUTHOR** of the code is **"JA Proger"**
+- To use the code in **YOUR** projects, which are designed for publishing, **YOU** have to mention the **AUTHOR** as **co-contributer** in the following form:
+
+```
+NoMarkdown; © JA Proger, 2025; https://github.com/ja-proger/NoMarkdown
+```
+
+### Usage Policy
+License and Usage Policy are related documents. You should follow Usage Policy to use the License
