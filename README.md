@@ -12,7 +12,7 @@ Unfortunately, since that times Markdown becames a trigger of **"bad AI"**.
 
 I believe we have to **hide our creature**, hence I created a CLI tool — **NoMarkdown**. 
 
-> _Sorry, bro... U'll be save_
+> _Sorry, bro... U'll be save_ \
 > JA Proger, 2025
 
 ## Overview
