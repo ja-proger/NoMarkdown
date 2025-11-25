@@ -17,7 +17,7 @@ Since appearing of chatbots, many people started to use them. Develpers of AI ap
 Nice and beautiful Markdown syntax, which is a standart in programmers' world, was dicriminated by **HUMANITARIANES**. 
 Unfortunately, since that times Markdown becames a trigger of **"bad AI"**. 
 
-I believe we have to **hide our creature**, hence I created a CLI tool — **NoMarkdown**. 
+I believe we have to **hide our creature**, hence I created a CLI tool — **NoMarkdown**. All texts created by AI have to be **UNMARKDOWNED**.
 
 > _Sorry, bro... U'll be save_ \
 > JA Proger, 2025
@@ -51,8 +51,9 @@ I used String methods and Regular expressions.
 
 ### Roadmap
 
-[ ] Realize options
-[ ] Add tables syntax to unmarkdown
+- [ ] Realize options
+- [ ] Add tables syntax to unmarkdown
+- [ ] Add list syntax to unmarkdown
 
 ## <a name="#license">License</a>
 
