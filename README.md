@@ -1,8 +1,6 @@
 # NoMarkdown
 
-<p name="center">
-  **COMMING SOON**
-</p>
+**COMMING SOON**
 
 ## Contents
 
